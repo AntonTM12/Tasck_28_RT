@@ -16,8 +16,8 @@ fake_login = fake.user_name()
 fake_email = fake.email()
 
 
-valid_phone = '+7 951 486-01-02'
-valid_login = 'rtkid_1679671456582'
+valid_phone = '+7 950 534-46-47'
+valid_login = 'rtkid_1604577456281'
 valid_password = 'Jfw-5DG-iH7-jY8'
 invalid_ls = '0123456781345'
 
